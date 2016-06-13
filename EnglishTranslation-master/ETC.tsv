@@ -11437,7 +11437,7 @@ ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
 ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Lodge before entering the world.
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a bonfire. {nl} HP, SP, STA is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
-ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
+ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an items durability decreases below a certain level, the items icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Item Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
 ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Two-handed Swords" attribute from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
@@ -13359,7 +13359,7 @@ ETC_20150717_013360	Gems can be upgraded through Gem Enhancement. Gem Abrasives 
 ETC_20150717_013361	Insert gems into the item sockets to add additional effects.
 ETC_20150717_013362	Some items may not have sockets.
 ETC_20150717_013363	You can add Gem sockets at the Blacksmith NPC.
-ETC_20150717_013364	Adding sockets will require a fee and reduce the item's Potential by 1.
+ETC_20150717_013364	Adding sockets will require a fee and reduce the items Potential by 1.
 ETC_20150717_013365	Press {img mouseclick_right 40 40} on the Gem to see which items are compatible.
 ETC_20150717_013366	Click on the item to insert the gem.
 ETC_20150717_013367	Hover the cursor over an item to view its current Gems.
@@ -13779,7 +13779,7 @@ ETC_20150729_013780	The effects differ based on the type of Gem and Equipment.
 ETC_20150729_013781	{nl}{nl}You can increase the Gem level through Gem Enhancement in Rest Mode.
 ETC_20150729_013782	Gem Enhancement requires other Gems or Gem Abrasives.
 ETC_20150729_013783	{nl}{nl}You can insert Gems in the item sockets to add additional effects.
-ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the Blacksmith NPC. {nl}{nl}Adding a socket will require a fee and reduce the item's Potential by 1.
+ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the Blacksmith NPC. {nl}{nl}Adding a socket will require a fee and reduce the items Potential by 1.
 ETC_20150729_013785	{nl}{nl} {img mouseclick_right 40 40} on the Gem to see which items are compatible.
 ETC_20150729_013786	Click on the item to insert the Gem.{nl}Hover the cursor over an item to view its Gems.
 ETC_20150729_013787	{nl}{nl}You can remove inserted Gems by 
@@ -19135,7 +19135,7 @@ ETC_20151224_019136	The current amount of players joined has been exceeded.
 ETC_20151224_019137	You have reached the maximum amount{nl}of characters in this Lodge{nl}Do you want to purchase a character slot?
 ETC_20151224_019138	You cannot dismount your companion while using a skill.
 ETC_20151224_019139	The name must be less than {LEN} bytes.
-ETC_20151224_019140	This item's price can't be estimated until there is more on the Market.
+ETC_20151224_019140	This items price can't be estimated until there is more on the Market.
 ETC_20151224_019141	{Price} TP will be charged to hire for {Minute} minutes. Do you wish to continue?
 ETC_20151224_019142	Wrong equipment. Please check the title.
 ETC_20151224_019143	You've received the item.
@@ -19725,8 +19725,8 @@ ETC_20151224_019726	Your item will be registered to the Market List after {TIME}
 ETC_20151224_019727	Your item will be moved to the cabinet after {TIME}.
 ETC_20151224_019728	A minimum of {Price} silver is required to register this item.
 ETC_20151224_019729	Purchasing this item will{nl}reduce the Potential by 1.{nl} Would you like to purchase?
-ETC_20151224_019730	The item's minimum price has changed. Please enter again.
-ETC_20151224_019731	The item's maximum price has changed. Please enter again.
+ETC_20151224_019730	The items minimum price has changed. Please enter again.
+ETC_20151224_019731	The items maximum price has changed. Please enter again.
 ETC_20151224_019732	{Price} silver will be required to register this item.{nl}Do you want to continue?
 ETC_20151224_019733	The price must be at least 100 silver.
 ETC_20151224_019734	The amount will be changed automatically based on the minimum unit price.
@@ -20555,7 +20555,7 @@ ETC_20160224_020556	Up to 2 times with Token benefits
 ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silver} silver?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
-ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
+ETC_20160224_020560	When awakening an item, your magic scroll and the items current awakened options will disappear. Do you still want to proceed?
 ETC_20160224_020561	{nl}Register this to the Adventure Journal?
 ETC_20160224_020562	No Options
 ETC_20160224_020563	The properties of this item was changed during the trade. Please try again.
